@@ -1,7 +1,7 @@
 # Alexander Voronenko
 ===
 ## Contacts
-* **Location:** Minsk, Belarus 
+* **Location:** Gomel, Belarus 
 * **Phone:** + 375(29)3796546
 * **E-mail:** 796546@gmail.com
 * **GitHub:** AlexVoronenko
