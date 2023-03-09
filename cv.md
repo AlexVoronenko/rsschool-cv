@@ -38,7 +38,7 @@ function readFiles(d) {
 }
 ```
 ## Education 
-SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
+SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL.
 
 ## Language
-English - A2
+English - A2.
