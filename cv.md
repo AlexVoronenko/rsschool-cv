@@ -1,7 +1,9 @@
 # Alexander Voronenko
+
 ---
+
 ## Contacts
-* **Location:** Gomel, Belarus 
+* **Location:** Gomel, Belarus
 * **Phone:** + 375(29)3796546
 * **E-mail:** 796546@gmail.com
 * **GitHub:** AlexVoronenko
@@ -14,6 +16,7 @@ I am energy engineer. I decided to study JS at a basic level, to understand its 
 * HTML
 * CSS
 * JavaScript
+* TypeScript
 * Git/GitHub 
 * FORTRAN
 * PASCAL
@@ -35,7 +38,7 @@ function readFiles(d) {
 }
 ```
 ## Education 
-SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
+SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL.
 
 ## Language
-English - A2
+English - A2.
